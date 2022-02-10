@@ -1,4 +1,4 @@
-## 4. Creating a Scriptable Object
+## Creating a Scriptable Object
 
 Let's understand the syntax of the scriptable object,
 
