@@ -1,4 +1,4 @@
-## 2. What is an Observer pattern?
+## What is an Observer pattern?
 
 An object (a.k.a Subject) maintains a list of its dependents known as observers. Then if a state is changed, the subject notifies all of its observers of changes usually by calling their methods.
 
