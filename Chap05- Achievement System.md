@@ -1,4 +1,4 @@
-## 5. Achievement System
+## Achievement System
 
 There are many achievements you can make. We will take an example of bullets fired achievement. 
 
