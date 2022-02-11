@@ -3,7 +3,7 @@
 Yipppeeee! You have learned how to create an awesome achievement system for your game. 
 
 Till then keep trying, keep building.
-
+Ohh I almost forgot, you just earned **20 Learning points**. Keep going to earn rewards. Do the following to secure them.
 ![](https://media.giphy.com/media/ieh6CxZVNAMEHGQSkr/giphy.gif)
 
 ## What next
