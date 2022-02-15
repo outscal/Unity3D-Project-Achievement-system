@@ -28,4 +28,10 @@ Achievement System is a tool that allows developers to easily create and manage 
 4. Map area covered achievements
 5. Player Progress Achievements, etc.
 
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+---
+## Repository of Battle Tank game
+In order to test your skills, Checkout the repository below for,
+
+Problem Statement and Solution for the Achievement System of Battle tank game.
+
+https://github.com/outscal/Battle-Tank-Project-Achievement-System/tree/ProblemStatement/ProblemStatement
