@@ -24,5 +24,3 @@ For example:
 
  With the above script in your Assets folder, you can create an instance of your ScriptableObject by navigating to Assets > Create > Inventory > List in Unity.
  
- 
- >💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
