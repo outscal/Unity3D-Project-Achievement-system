@@ -8,5 +8,3 @@ Now make a scriptable object in the unity and assign all the data to that script
 
 ![](Images/7.png)
 
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
