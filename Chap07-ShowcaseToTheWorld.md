@@ -5,7 +5,7 @@ You may refer to the below Solution Repository for the problem statement from th
 [Github Repo](https://github.com/outscal/Battle-Tank-Project-Achievement-System/tree/Solution)
 
 ---
-# Congratularions!!
+# Congratulations!!
 
 Yipppeeee! You have learned how to create an awesome achievement system for your game. 
 
