@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](Chap00-Introduction.md)
 * [What is an Achievement System?](Chap01-WhatIsAchievement.md)
 * [What is an Observer pattern?](<Chap02- What is an Observer pattern.md>)
 * [What are Scriptable objects?](<Chap03- What are Scriptable objects.md>)
