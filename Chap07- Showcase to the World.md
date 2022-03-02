@@ -1,5 +1,12 @@
 # Showcase to the world
 
+You may refer to the below Solution Repository for the problem statement from the 1st Chapter,
+
+[Github Repo](https://github.com/outscal/Battle-Tank-Project-Achievement-System/tree/Solution)
+
+---
+# Congratularions!!
+
 Yipppeeee! You have learned how to create an awesome achievement system for your game. 
 
 Till then keep trying, keep building.
