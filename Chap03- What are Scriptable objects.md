@@ -13,4 +13,4 @@ You can learn more in our Scriptable objects course.
 Now we have learned all the necessary concepts required to make the achievement system. Let's see how we can make an achievement system.
 
 
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+
