@@ -4,5 +4,11 @@ Achievement is simply a goal, and all games have goals, whether set in code or l
 
 The answer to that question is **Observer Pattern!**
 
+---
+## Repository of Battle Tank game
+In order to test your skills post completing this course, Checkout the repository below for,
 
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+Problem Statement and Solution for the Achievement System of Battle tank game.
+
+[Github Repo](https://github.com/outscal/Battle-Tank-Project-Achievement-System/tree/ProblemStatement/ProblemStatement)
+
