@@ -12,5 +12,3 @@ For Example, **Player Died** → This is an event/subject and other classes are 
 When the player dies, the enemy will have a different logic, UI service will be doing showing some “Player Died” UI,  sound effects will also get triggered, etc. So to execute all these things when a particular event triggers, the observer pattern helps us to send the signal to all the observers in one go.
 
 Now let's see how we can use the Observer pattern to implement an achievement system. To make an achievement system first of all we need to store the achievement data in some container. right? In order to do that you will need a scriptable object.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
